@@ -1,7 +1,2 @@
-Q2hhcHRlciAxIGlzIHJlYWR5IGZvciBHaXRIdWIgUGFnZXMuIEtlZXAgaW5k
-ZXguaHRtbCBhbmQgdGhlIGFzc2lnbm1lbnRzIGZvbGRlciB0b2dldGhlci4g
-T3BlbiBpbmRleC5odG1sIHRvIHZpZXcgdGhlIGNoYXB0ZXIuIFVwbG9hZCB0
-aGUgY29udGVudHMgb2YgdGhpcyBmb2xkZXIgdG8gdGhlIHNlbGVjdGVkIHJl
-cG9zaXRvcnkgcHVibGlzaGluZyBmb2xkZXIuIFRoZSBhc3NpZ25tZW50IGRv
-d25sb2FkIHVzZXMgYXNzaWdubWVudHMvMDEucGRmLiBBbGwgZGlhZ3JhbXMg
-YXJlIGVtYmVkZGVkOyB0aGUgWW91VHViZSBsaW5rIGlzIGluY2x1ZGVkLgoK
+Chapter 1 is ready for GitHub Pages. Keep index.html and the assignments folder together. Open index.html to view the chapter. Upload the contents of this folder to the selected repository publishing folder. The assignment download uses assignments/01.pdf. All diagrams are embedded; the YouTube link is included.
+
